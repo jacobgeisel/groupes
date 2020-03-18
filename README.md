@@ -10,11 +10,11 @@
 |6|Jacob|Doing|Generator changes|
 |7|Den|Done|
 |8|Den|Doing|
-|9|Mounir|Doing|
+|9|Mounir|Done|
 |10|Den|Doing|
 |11|Den|Doing|
-|12|Mounir|Doing|
-|13|Mounir|Doing|
+|12|Mounir|Done|
+|13|Mounir|Done|
 |14|Den|Doing|
 |15|||
 |16|||
