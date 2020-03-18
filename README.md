@@ -4,9 +4,9 @@
 |---|---|---|---|
 |1|Den|Done||
 |2|Den|Done||
-|3|||
-|4|||
-|5|||
+|3|Mounir|Done||
+|4|Mounir|Done||
+|5|Mounir|Done||
 |6|Jacob|Doing|Generator changes|
 |7|Den|Done|
 |8|Den|Doing|
@@ -20,5 +20,5 @@
 |16|||
 |17|||
 |18|||
-|19|||
+|19|Mounir|Done||
 |20|||
