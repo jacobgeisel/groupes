@@ -9,10 +9,10 @@
 |5|Mounir|Done|utilisation d'interface de constantes, des formats et interface de services entre composants métier|
 |6|Jacob|Doing|Generator changes|
 |7|Den|Done||
-|8|Den|Doing||
+|8|Mounir|Doing||
 |9|Mounir|Done|utilisation de constantes d'interface et formats entre composants|
-|10|Den|Doing||
-|11|Den|Doing||
+|10|Mounir|Doing||
+|11|Mounir|Doing||
 |12|Mounir|Done|Generateur (**cycle peut disparaitre**) : CP_AnnulAgios_PRJ_JAVA utilise imports inutiles : /*GEN*/import ibp.cp.qdcc.caviec02.impl.*; /*GEN*/import ibp.cp.qdcc.caviec02.formats.*;|
 |13|Mounir|Done|utilisation de formats entre composants|
 |14|Den|Doing||
