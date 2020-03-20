@@ -9,10 +9,10 @@
 |5|Mounir|Done|utilisation d'interface de constantes, des formats et interface de services entre composants métier|
 |6|Jacob|Doing|Generator changes|
 |7|Den|Done||
-|8|Mounir|Doing||
+|8|Mounir|Done|utilisation de constantes d'interface et formats entre composants|
 |9|Mounir|Done|utilisation de constantes d'interface et formats entre composants|
-|10|Mounir|Doing||
-|11|Mounir|Doing||
+|10|Mounir|Done|utilisation de constantes d'interface et formats entre composants. Cycle réduit, composant CP_PrestationCompte_PRJ_JAVA utilise un import inutile|
+|11|Mounir|Done|utilisation de constantes d'interface et formats entre composants|
 |12|Mounir|Done|Generateur (**cycle peut disparaitre**) : CP_AnnulAgios_PRJ_JAVA utilise imports inutiles : /*GEN*/import ibp.cp.qdcc.caviec02.impl.*; /*GEN*/import ibp.cp.qdcc.caviec02.formats.*;|
 |13|Mounir|Done|utilisation de formats entre composants|
 |14|Den|Doing||
@@ -25,3 +25,4 @@
 |21|Mounir|Done|utilisation de formats entre composants|
 |22|Mounir|Done|Generateur (**cycle peut disparaitre**) : CP_ParamFraudeCDF_PRJ_JAVA utilise imports inutiles : /*GEN*/import ibp.cp.qdmp.flxfrc02.impl.*; /*GEN*/import ibp.cp.qdmp.flxfrc02.formats.*;|
 |23|Mounir|Done|utilisation de formats entre composants|
+
